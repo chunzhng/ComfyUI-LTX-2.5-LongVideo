@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-ltx-2-5-longvideo"
+description = "LTX 2.5 Director (CS) fork with keyframe-pair long-video rendering."
+version = "2.1.0"
+license = {file = "LICENSE"}
+
+# Set this after creating the GitHub repository.
+# [project.urls]
+# Repository = "https://github.com/<account>/ComfyUI-LTX-2.5-LongVideo"
+
+[tool.comfy]
+PublisherId = "REPLACE_WITH_YOUR_REGISTRY_PUBLISHER_ID"
+DisplayName = "LTX 2.5 Long Video"
+Icon = ""
+includes = []
